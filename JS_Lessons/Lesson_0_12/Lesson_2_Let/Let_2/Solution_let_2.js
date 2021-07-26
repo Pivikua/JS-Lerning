@@ -1,0 +1,2 @@
+let Erth;
+let currentUser;
