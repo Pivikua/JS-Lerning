@@ -2,10 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa6f7ed2-8ddd-45d4-bc01-2543d7047ba9" name="Default Changelist" comment="Default Changelist">
-      <change afterPath="$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_31_closure/Solution.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_31_closure/Task_1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_31_closure/closure.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_31x_closure/Task_2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_31x_closure/Task_3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_31x_closure/Task_4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_31x_closure/Task_5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_31x_closure/Task_6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_31x_closure/Task_7.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_32_old_var/old_var.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_33_globalObj/global_object.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_34x_objOffunc_NFE/Solution.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_34x_objOffunc_NFE/Task_1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_34x_objOffunc_NFE/Task_2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_34x_objOffunc_NFE/objOfFuncNFE.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_35_newFunction/newFunction.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_36_Timeout_Interval/Solution.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_36_Timeout_Interval/Task_1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_36_Timeout_Interval/Task_2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_36_Timeout_Interval/Timeout_Interval.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_29_Recurce_Stack/Recursion.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_29x_Recurce_Stack/Recursion.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_29_Recurce_Stack/Solution.html" beforeDir="false" afterPath="$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_29x_Recurce_Stack/Solution.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_29_Recurce_Stack/Task_1.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_29x_Recurce_Stack/Task_1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_29_Recurce_Stack/Task_2.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_29x_Recurce_Stack/Task_2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_29_Recurce_Stack/Task_3.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_29x_Recurce_Stack/Task_3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_29_Recurce_Stack/Test_RecSalary.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_29x_Recurce_Stack/Test_RecSalary.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_29_Recurce_Stack/Обход_Обратно.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_29x_Recurce_Stack/Обход_Обратно.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_29_Recurce_Stack/Обход_списка.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_29x_Recurce_Stack/Обход_списка.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_31_closure/Solution.html" beforeDir="false" afterPath="$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_31x_closure/Solution.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_31_closure/Task_1.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_31x_closure/Task_1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_31_closure/closure.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_31x_closure/closure.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,22 +44,65 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="closure.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_31_closure/closure.js">
+      <file leaf-file-name="Timeout_Interval.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_36_Timeout_Interval/Timeout_Interval.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="185">
-              <caret line="53" column="3" selection-start-line="53" selection-start-column="3" selection-end-line="53" selection-end-column="3" />
+            <state relative-caret-position="2754">
+              <caret line="167" column="8" selection-start-line="167" selection-start-column="8" selection-end-line="167" selection-end-column="8" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Task_1.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_31_closure/Task_1.js">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file leaf-file-name="Task_1.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_36_Timeout_Interval/Task_1.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="544">
+              <caret line="39" column="29" selection-start-line="39" selection-start-column="29" selection-end-line="39" selection-end-column="29" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Task_2.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_36_Timeout_Interval/Task_2.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="massives.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JS_Lessons/Lesson_18_28/Lesson_21_Massives/massives.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="27">
+              <caret line="222" column="26" selection-start-line="222" selection-start-column="21" selection-end-line="222" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Map.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JS_Lessons/Lesson_18_28/Lesson_23_Map_Set/Map.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="680">
+              <caret line="40" column="30" selection-start-line="40" selection-start-column="30" selection-end-line="40" selection-end-column="30" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
       <file leaf-file-name="Solution.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_31_closure/Solution.html">
+        <entry file="file://$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_36_Timeout_Interval/Solution.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
               <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
@@ -56,17 +124,15 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>`</find>
-      <find>function makeTest\(x\, y\) \{\n        let expected \= 1\;\n        for \(let i \= 1\; i \&lt;\= y \; i\+\+\) \{\n            expected \*\= x\;\n        \}\n        it\(\`\$\{x\} expected \$\{y\} result \$\{expected\}\`\, function \(\) \{\n            assert\.equal\(pow\(x\, y\)\, expected\)\;\n        \}\)\;\n    \}\n\n    for \(let y \= 1\; y \&lt;\= 10\; y\+\+\) \{\n        for \(let x \= 1\; x \&lt;\= 10 \; x\+\+\) \{\n            makeTest\(x\, y\)\;\n        \}\n    \}</find>
+      <find />
       <find>sli</find>
       <find>join</find>
       <find>удал</find>
       <find>conc</find>
       <find>slice</find>
       <find>forEach</find>
-      <find>sort</find>
       <find>reduce</find>
       <find>map</find>
-      <find>filter</find>
       <find>index</find>
       <find>reduc</find>
       <find>for(</find>
@@ -75,7 +141,11 @@
       <find>getMil</find>
       <find>now</find>
       <find>set</find>
+      <find>fil</find>
+      <find>filter</find>
+      <find>sort</find>
       <find>for</find>
+      <find />
     </findStrings>
     <replaceStrings>
       <replace />
@@ -90,23 +160,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/JS_Lessons/Lesson_18_/Lesson_23_Map_Set.css" />
-        <option value="$PROJECT_DIR$/JS_Lessons/Lesson_18_/Lesson_23_Map_Set/Map.js" />
-        <option value="$PROJECT_DIR$/JS_Lessons/Lesson_18_/Lesson_23_Map_Set/Set.js" />
-        <option value="$PROJECT_DIR$/JS_Lessons/Lesson_18_/Lesson_23_Map_Set/Task_1.js" />
-        <option value="$PROJECT_DIR$/JS_Lessons/Lesson_18_/Lesson_23_Map_Set/Task_2.js" />
-        <option value="$PROJECT_DIR$/JS_Lessons/Lesson_18_/Lesson_23_Map_Set/Solution.html" />
-        <option value="$PROJECT_DIR$/JS_Lessons/Lesson_18_/Lesson_23_Map_Set/Task_3.js" />
-        <option value="$PROJECT_DIR$/JS_Lessons/Lesson_18_/Lesson_24_WeakMap_WeakSet/WeakMap _WeakSet.js" />
-        <option value="$PROJECT_DIR$/JS_Lessons/Lesson_18_/Lesson_24_WeakMap_WeakSet/Solution.html" />
-        <option value="$PROJECT_DIR$/JS_Lessons/Lesson_18_/Lesson_24_WeakMap_WeakSet/Test_1.js" />
-        <option value="$PROJECT_DIR$/JS_Lessons/Lesson_18_/Lesson_24_WeakMap_WeakSet/Test_2.js" />
-        <option value="$PROJECT_DIR$/JS_Lessons/Lesson_18_/Lesson_25_Object.keys.values.entries/Object.keys.values.entries.js" />
-        <option value="$PROJECT_DIR$/JS_Lessons/Lesson_18_/Lesson_25_Object.keys.values.entries/Task_1.js" />
-        <option value="$PROJECT_DIR$/JS_Lessons/Lesson_18_/Lesson_25_Object.keys.values.entries/Task_2.js" />
-        <option value="$PROJECT_DIR$/JS_Lessons/Lesson_18_/Lesson_25_Object.keys.values.entries/Solution.html" />
-        <option value="$PROJECT_DIR$/JS_Lessons/Lesson_18_/Lesson_26_destr_assigment/Dest_Array.js" />
-        <option value="$PROJECT_DIR$/JS_Lessons/Lesson_18_/Lesson_26_destr_assigment/Destr_Object.js" />
         <option value="$PROJECT_DIR$/JS_Lessons/Lesson_18_/Lesson_26_destr_assigment/Nested_destr.js" />
         <option value="$PROJECT_DIR$/JS_Lessons/Lesson_18_/Lesson_26_destr_assigment/Task_1.js" />
         <option value="$PROJECT_DIR$/JS_Lessons/Lesson_18_/Lesson_26_destr_assigment/Solution.html" />
@@ -140,7 +193,24 @@
         <option value="$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_30_args/args_arr.js" />
         <option value="$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_31_closure/closure.js" />
         <option value="$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_31_closure/Task_1.js" />
+        <option value="$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_31_closure/Task_2.js" />
+        <option value="$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_31_closure/Task_3.js" />
+        <option value="$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_31_closure/Task_4.js" />
+        <option value="$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_31_closure/Task_5.js" />
+        <option value="$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_31_closure/Task_6.js" />
         <option value="$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_31_closure/Solution.html" />
+        <option value="$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_31_closure/Task_7.js" />
+        <option value="$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_32_old_var/old_var.js" />
+        <option value="$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_33_globalObj/global_object.js" />
+        <option value="$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_34_objOffunc_NFE/objOfFuncNFE.js" />
+        <option value="$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_34x_objOffunc_NFE/Task_1.js" />
+        <option value="$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_34x_objOffunc_NFE/Solution.html" />
+        <option value="$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_34x_objOffunc_NFE/Task_2.js" />
+        <option value="$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_35_newFunction/newFunction.js" />
+        <option value="$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_36_Timeout_Interval/Timeout_Interval.js" />
+        <option value="$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_36_Timeout_Interval/Task_1.js" />
+        <option value="$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_36_Timeout_Interval/Task_2.js" />
+        <option value="$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_36_Timeout_Interval/Solution.html" />
       </list>
     </option>
   </component>
@@ -171,6 +241,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -187,20 +258,19 @@
               <item name="JS" type="b2602c69:ProjectViewProjectNode" />
               <item name="JS" type="462c0819:PsiDirectoryNode" />
               <item name="JS_Lessons" type="462c0819:PsiDirectoryNode" />
-              <item name="Lessons_29_AnvanceFunction" type="462c0819:PsiDirectoryNode" />
+              <item name="Lesson_18_28" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JS" type="b2602c69:ProjectViewProjectNode" />
               <item name="JS" type="462c0819:PsiDirectoryNode" />
               <item name="JS_Lessons" type="462c0819:PsiDirectoryNode" />
-              <item name="Lessons_29_AnvanceFunction" type="462c0819:PsiDirectoryNode" />
-              <item name="Lesson_31_closure" type="462c0819:PsiDirectoryNode" />
+              <item name="Lesson_18_28" type="462c0819:PsiDirectoryNode" />
+              <item name="Lesson_21_Massives" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="ProjectViewState">
@@ -238,26 +308,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.Solution.html (1)">
+  <component name="RunManager" selected="JavaScript Debug.Solution.html (3)">
     <configuration name="Solution.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_31_closure/Solution.html" />
-    <configuration name="Solution.html (5)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS/JS_Lessons/Lesson_18_/Lesson_28_JSON/Solution.html" />
+    <configuration name="Solution.html (2)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_34x_objOffunc_NFE/Solution.html" />
+    <configuration name="Solution.html (3)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_36_Timeout_Interval/Solution.html" />
     <configuration name="Solution.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_29_Recurce_Stack/Solution.html" />
-    <configuration name="Task_1.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="Task_1.js" working-dir="$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_29_Recurce_Stack" />
-    <configuration name="Обход_списка.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_29_Recurce_Stack/Обход_списка.js" working-dir="$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_29_Recurce_Stack" />
+    <configuration name="Обход_списка.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_29x_Recurce_Stack/Обход_списка.js" working-dir="$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_29x_Recurce_Stack" />
     <list>
-      <item itemvalue="JavaScript Debug.Solution.html (5)" />
       <item itemvalue="JavaScript Debug.Solution.html" />
-      <item itemvalue="Node.js.Task_1.js" />
       <item itemvalue="Node.js.Обход_списка.js" />
       <item itemvalue="JavaScript Debug.Solution.html (1)" />
+      <item itemvalue="JavaScript Debug.Solution.html (2)" />
+      <item itemvalue="JavaScript Debug.Solution.html (3)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.Solution.html (3)" />
+        <item itemvalue="JavaScript Debug.Solution.html (2)" />
         <item itemvalue="JavaScript Debug.Solution.html (1)" />
         <item itemvalue="JavaScript Debug.Solution.html" />
         <item itemvalue="Node.js.Обход_списка.js" />
-        <item itemvalue="Node.js.Task_1.js" />
-        <item itemvalue="JavaScript Debug.Solution.html (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -307,7 +377,12 @@
       <workItem from="1627134668647" duration="10520000" />
       <workItem from="1627193591383" duration="8028000" />
       <workItem from="1627210985459" duration="15498000" />
-      <workItem from="1627279502469" duration="8826000" />
+      <workItem from="1627279502469" duration="16962000" />
+      <workItem from="1627366332210" duration="653000" />
+      <workItem from="1627411271471" duration="2722000" />
+      <workItem from="1627449193318" duration="10645000" />
+      <workItem from="1627576204982" duration="10832000" />
+      <workItem from="1627624278261" duration="1416000" />
     </task>
     <task id="LOCAL-00001" summary="Default Changelist">
       <created>1627288209401</created>
@@ -323,11 +398,18 @@
       <option name="project" value="LOCAL" />
       <updated>1627315447761</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Default Changelist">
+      <created>1627329116143</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1627329116143</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="262628000" />
+    <option name="totallyTimeSpent" value="297032000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -339,11 +421,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1040" height="754" extended-state="6" />
+    <frame x="-8" y="-8" width="1040" height="754" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info anchor="bottom" id="TypeScript" weight="0.32954547" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19261476" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19261476" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32954547" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
@@ -352,14 +433,15 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32954547" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.48376623" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.45779222" />
+      <window_info anchor="bottom" id="TypeScript" order="7" weight="0.32954547" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32954547" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -455,141 +537,20 @@
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_29_Recurce_Stack/Обход_списка.js</url>
+          <url>file://$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_29x_Recurce_Stack/Обход_списка.js</url>
           <line>21</line>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_31_closure/closure.js</url>
+          <url>file://$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_31x_closure/closure.js</url>
           <line>2</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="13" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="14" />
+      <option name="time" value="16" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/JS_Lessons/Lesson_18_/Lesson_23_Map_Set.css" />
-    <entry file="file://$PROJECT_DIR$/JS_Lessons/Lesson_18_28/Lesson_22_iterable/Solution.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="39" lean-forward="true" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS_Lessons/Lesson_18_28/Lesson_22_iterable/iterable.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
-          <caret line="151" column="3" selection-start-line="151" selection-start-column="3" selection-end-line="151" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS_Lessons/Lesson_18_28/Lesson_23_Map_Set/Solution.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS_Lessons/Lesson_18_28/Lesson_23_Map_Set/Task_1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="34" lean-forward="true" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS_Lessons/Lesson_18_28/Lesson_23_Map_Set/Task_2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS_Lessons/Lesson_18_28/Lesson_23_Map_Set/Task_3.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS_Lessons/Lesson_18_28/Lesson_24_WeakMap_WeakSet/Test_1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS_Lessons/Lesson_18_28/Lesson_23_Map_Set/Map.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2992">
-          <caret line="191" column="58" lean-forward="true" selection-start-line="191" selection-start-column="58" selection-end-line="191" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS_Lessons/Lesson_18_28/Lesson_24_WeakMap_WeakSet/Test_2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="93">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS_Lessons/Lesson_18_28/Lesson_24_WeakMap_WeakSet/Solution.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="37" lean-forward="true" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS_Lessons/Lesson_18_28/Lesson_24_WeakMap_WeakSet/WeakMap _WeakSet.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="139" selection-start-line="139" selection-end-line="139" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS_Lessons/Lesson_18_28/Lesson_25_Object.keys.values.entries/Task_2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS_Lessons/Lesson_18_28/Lesson_25_Object.keys.values.entries/Solution.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS_Lessons/Lesson_18_28/Lesson_25_Object.keys.values.entries/Task_1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS_Lessons/Lesson_18_28/Lesson_26_destr_assigment/Task_1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="22" column="22" lean-forward="true" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS_Lessons/Lesson_18_28/Lesson_26_destr_assigment/Dest_Array.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="127" column="35" selection-start-line="127" selection-start-column="35" selection-end-line="127" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS_Lessons/Lesson_18_28/Lesson_26_destr_assigment/Destr_Object.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1554">
-          <caret line="132" column="69" lean-forward="true" selection-start-line="132" selection-start-column="69" selection-end-line="132" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JS_Lessons/Lesson_18_28/Lesson_26_destr_assigment/Nested_destr.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="117">
@@ -601,13 +562,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="365">
           <caret line="22" column="30" lean-forward="true" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS_Lessons/Lesson_18_28/Lesson_23_Map_Set/Set.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="55" column="25" lean-forward="true" selection-start-line="55" selection-start-column="25" selection-end-line="55" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -723,17 +677,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_29_Recurce_Stack/Task_1.js">
+    <entry file="file://$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_29x_Recurce_Stack/Task_1.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="178">
           <caret line="28" selection-start-line="28" selection-end-line="33" selection-end-column="13" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_29_Recurce_Stack/Task_2.js">
+    <entry file="file://$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_29x_Recurce_Stack/Task_2.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
           <caret line="32" column="28" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
@@ -747,58 +698,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_29_Recurce_Stack/Recursion.js">
+    <entry file="file://$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_29x_Recurce_Stack/Recursion.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-978">
           <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_29_Recurce_Stack/Обход_Обратно.js">
+    <entry file="file://$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_29x_Recurce_Stack/Обход_Обратно.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="331">
           <caret line="42" column="17" lean-forward="true" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="17" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_29_Recurce_Stack/Task_3.js">
+    <entry file="file://$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_29x_Recurce_Stack/Task_3.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="34" column="19" lean-forward="true" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JS_Lessons/Lesson_18_28/Lesson_21_Massives/massives.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="27" column="10" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_29_Recurce_Stack/Test_RecSalary.js">
+    <entry file="file://$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_29x_Recurce_Stack/Test_RecSalary.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="23" column="2" lean-forward="true" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_29_Recurce_Stack/Solution.html">
+    <entry file="file://$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_29x_Recurce_Stack/Solution.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_29_Recurce_Stack/Обход_списка.js">
+    <entry file="file://$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_29x_Recurce_Stack/Обход_списка.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="37" column="5" lean-forward="true" selection-start-line="32" selection-start-column="4" selection-end-line="37" selection-end-column="5" />
@@ -812,28 +747,181 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1205">
           <caret line="70" column="40" lean-forward="true" selection-start-line="70" selection-start-column="40" selection-end-line="70" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_31x_closure/Task_2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="27" lean-forward="true" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_31x_closure/Task_3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="6" lean-forward="true" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_31x_closure/Task_4.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_31x_closure/Task_1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_31x_closure/Task_5.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="26" column="27" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_31x_closure/Solution.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_31x_closure/closure.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="53" column="3" selection-start-line="53" selection-start-column="3" selection-end-line="53" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_31x_closure/Task_6.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_31x_closure/Task_7.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_32_old_var/old_var.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="157" column="222" selection-start-line="157" selection-start-column="222" selection-end-line="157" selection-end-column="222" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_33_globalObj/global_object.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="75" column="152" selection-start-line="75" selection-start-column="152" selection-end-line="75" selection-end-column="152" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_34x_objOffunc_NFE/objOfFuncNFE.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="296" column="141" selection-start-line="296" selection-start-column="141" selection-end-line="296" selection-end-column="141" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_34x_objOffunc_NFE/Solution.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_35_newFunction/newFunction.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="116" column="3" selection-start-line="116" selection-start-column="3" selection-end-line="116" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_34x_objOffunc_NFE/Task_2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_34x_objOffunc_NFE/Task_1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="36" column="6" selection-start-line="36" selection-start-column="6" selection-end-line="36" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_36_Timeout_Interval/Timeout_Interval.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2754">
+          <caret line="167" column="8" selection-start-line="167" selection-start-column="8" selection-end-line="167" selection-end-column="8" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_31_closure/closure.js">
+    <entry file="file://$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_36_Timeout_Interval/Task_1.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="53" column="3" selection-start-line="53" selection-start-column="3" selection-end-line="53" selection-end-column="3" />
+        <state relative-caret-position="544">
+          <caret line="39" column="29" selection-start-line="39" selection-start-column="29" selection-end-line="39" selection-end-column="29" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_31_closure/Solution.html">
+    <entry file="file://$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_36_Timeout_Interval/Solution.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_31_closure/Task_1.js">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/JS_Lessons/Lesson_18_28/Lesson_23_Map_Set/Set.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-109">
+          <caret line="55" column="25" lean-forward="true" selection-start-line="55" selection-start-column="25" selection-end-line="55" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS_Lessons/Lesson_18_28/Lesson_23_Map_Set/Map.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" column="30" selection-start-line="40" selection-start-column="30" selection-end-line="40" selection-end-column="30" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS_Lessons/Lessons_29_AnvanceFunction/Lesson_36_Timeout_Interval/Task_2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS_Lessons/Lesson_18_28/Lesson_21_Massives/massives.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="222" column="26" selection-start-line="222" selection-start-column="21" selection-end-line="222" selection-end-column="26" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
